@@ -1,0 +1,201 @@
+@charset "UTF-8";
+nav {
+	background-color: #FF6A00;
+}
+.jumbotron.jumbotron-fluid.text-center {
+	background-image: url(img/top-hero.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.jumbotron.jumbotron-fluid.text-center.footer .display-4.footer-header {
+    background-image: url(url);
+    color: #FFFFFF;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Georgia;
+    clear: left;
+}
+.container .row .col-xl-4.col-2.col-lg-4 {
+    clear: right;
+}
+.container .row .col-xl-4.col-3.col-lg-4 {
+    clear: right;
+}
+.jumbotron.jumbotron-fluid.text-center.footer {
+	background-image: url(img/footer.jpg);
+}
+.jumbotron.jumbotron-fluid.text-center .lead .btn.btn-primary.btn-lg {
+	background-color: #FF6A00;
+}
+.jumbotron.jumbotron-fluid.text-center .display-4 {
+    color: #FFFFFF;
+    font-family: Georgia;
+    font-style: italic;
+}
+.jumbotron.jumbotron-fluid.text-center p {
+    color: #FFFFFF;
+    font-family: Georgia;
+}
+.jumbotron.jumbotron-fluid.text-center .lead .btn.btn-primary.btn-lg {
+    color: #FFFFFF;
+    font-family: Georgia;
+    font-style: italic;
+}
+.container .row.text-center .col-lg-6.offset-lg-3.offset-xl-0.col-xl-12 {
+    color: #000000;
+    font-family: Georgia;
+    font-style: italic;
+}
+.row .col-md-4 p {
+    color: #FF0004;
+    font-family: Georgia;
+    font-style: italic;
+}
+.container .row .col-xl-4.col-1.offset-lg-0.col-lg-4 {
+}
+.container-fluid .text-center.col-lg-12.offset-lg-3.offset-xl-0 .btn.btn-primary.btn-lg {
+	background-color: #FF6A00;
+	font-family: Georgia;
+	font-style: italic;
+	color: #000000;
+	font-weight: bold;
+}
+.container .row .col-md-4 {
+    font-family: Georgia;
+    font-style: italic;
+}
+.container .row .col-md-4.col-2 {
+    color: #0D6B00;
+    font-family: Georgia;
+    font-style: italic;
+}
+.container .row .col-md-4.col-3 {
+    color: #0028F6;
+    font-family: Georgia;
+    font-style: italic;
+}
+.jumbotron.jumbotron-fluid.text-center .lead .btn.btn-primary.btn-lg {
+    color: #000000;
+    font-weight: bold;
+}
+.container .row .col-xl-4.col-1 {
+    background-image: url(img/red.jpg);
+    padding-bottom: 312px;
+    border-radius: 348px;
+    padding-right: 0px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    max-width: 324px;
+    margin-right: -40px;
+    margin-left: -1px;
+    font-family: Georgia;
+}
+.container .row .col-md-4.green-body {
+	font-family: Georgia;
+}
+.container .row .col-xl-4.col-2 {
+    background-image: url(img/green.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 0px;
+    padding-bottom: 312px;
+    border-radius: 348px;
+    max-width: 302px;
+    margin-left: 53px;
+    margin-right: 60px;
+}
+.container-fluid .text-center.col-lg-12.offset-lg-3.offset-xl-0 {
+	background-image: url(img/footer.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 216px;
+	color: #FFFFFF;
+	font-family: Georgia;
+}
+.container .row .col-xl-4.col-3 {
+    background-image: url(img/blue.jpg);
+    max-width: 302px;
+    padding-bottom: 312px;
+    border-radius: 348px;
+    margin-left: -42px;
+    bottom: 0px;
+    font-family: Georgia;
+    font-style: italic;
+    color: #FFFFFF;
+}
+.container-fluid .text-center.col-lg-12.offset-lg-3.offset-xl-0 h2 {
+	color: #FFFFFF;
+	font-family: Georgia;
+	font-weight: bold;
+	font-style: italic;
+	font-variant: normal;
+}
+.container-fluid .text-center.col-lg-12.offset-lg-3.offset-xl-0 p {
+    font-family: Georgia;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    padding-bottom: 0px;
+    padding-top: 71px;
+    text-align: center;
+    font-style: italic;
+}
+.jumbotron.jumbotron-fluid.text-center.footer .lead .btn.btn-primary.btn-lg {
+	font-family: Georgia;
+	font-style: italic;
+	color: #000000;
+	font-weight: bold;
+}
+.footer {
+	font-family: Georgia;
+}
+.footer-header {
+	margin-top: 15px;
+}
+.jumbotron.jumbotron-fluid.text-center.footer .footer-2 {
+	font-family: Georgia;
+	color: #FFFFFF;
+}
+.jumbotron.jumbotron-fluid.text-center.footer .footer-1 {
+	color: #FFFFFF;
+	font-family: Georgia;
+	margin-bottom: -4px;
+}
+.footer-1 {
+}
+.footer-2 {
+}
+.green-body {
+}
+.container .row .col-md-4 {
+    text-align: center;
+}
+.container .row .col-md-4 {
+    text-align: center;
+}
+.row .col-md-4 p {
+    font-family: Georgia;
+}
+.jumbotron.jumbotron-fluid.text-center .display-4 {
+    color: #FFFFFF;
+}
+.jumbotron.jumbotron-fluid.text-center .display-4 {
+    color: #FFFFFF;
+}
+.container .row.text-center .col-lg-6.offset-lg-3.offset-xl-0.col-xl-12 {
+    font-weight: bold;
+}
+.container .row .col-md-4.col-3 {
+    font-weight: bolder;
+    margin-top: 7px;
+}
+.container .row .col-md-4.col-2 {
+    font-weight: bold;
+    margin-top: 7px;
+}
+.row .col-md-4 p {
+    font-weight: bold;
+    min-height: 9px;
+    padding-bottom: 0px;
+    margin-bottom: 13px;
+    margin-top: -14px;
+}
